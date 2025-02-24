@@ -1,0 +1,7 @@
+gandalf.grey:gandalfrockyou:SSH
+boromir:BoRomir2000Z:SSH
+galadriel:galadrielarwen111:SSH
+peregrin.took:28Peregrin:SSH
+bilbo:Rivendell107:HTTP
+frodo:1Brandywine:HTTP
+samwise:RosieRosie:HTTP
