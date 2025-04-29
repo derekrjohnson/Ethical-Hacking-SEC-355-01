@@ -5,3 +5,4 @@ peregrin.took:28Peregrin:SSH
 bilbo:Rivendell107:HTTP
 frodo:1Brandywine:HTTP
 samwise:RosieRosie:HTTP
+arwen:SecurePassworD
